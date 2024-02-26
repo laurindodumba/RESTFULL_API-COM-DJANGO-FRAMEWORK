@@ -1,5 +1,5 @@
 ## CONTRUÇÃO DE UMA RESTFULLL API COM FRAMEWORK DJANGO
-Iniciei um desafio neste começo da semana em estudar sobre WEBAPI usando Django, até o momento só havia usado o flask para construir API, nunca havia me colocado em aprender sobre API usando DJANGO FRAMEWORK, já, que no meu ponto de vista é um framework bastante organizado e facilita bastante na questão de ter uma estrutura de  pastas muito bem organizada no ambiente de trabalho achei interessante. 
+Iniciei um desafio neste começo da semana em estudar sobre WEBAPI usando Django, até o momento só havia usado o flask para construir API, nunca havia me colocado em aprender sobre API usando DJANGO FRAMEWORK, já, que no meu ponto de vista é um framework bastante organizado e facilita bastante na questão de ter uma estrutura de  pastas muito bem organizada no ambiente de trabalho achei interessante 🥰 .
 
 Aqui, vamos entender o que é uma WEBAPI, por definição as WEBAPI são  pontos de acessos para web através de protocolos HTTP que possibilitam a conexão e comunicação entre o usuário e a API. 
 Um exemplo  que é bastante usado , é sobre um restaurante, aonde a internet está funcionado como de fosse um garçom que vai fazendo a intermediação na comunicação entre o cliente e a cozinha. 
